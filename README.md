@@ -1,6 +1,6 @@
 # java-crud-app
 
-# Nombre del Proyecto
+# Usuarios
 
 Breve descripción de lo que hace tu proyecto. Por ejemplo:  
 Sistema de gestión de usuarios desarrollado en Java que permite crear, leer, actualizar y eliminar registros.
